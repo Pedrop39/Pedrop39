@@ -5,7 +5,7 @@
 ## 🛠️ What I Do
 - **BI & Reporting** — Design and maintain Power BI dashboards consolidating sales and inventory across multiple business units and countries.
 - **Advanced DAX** — YTD / prior-year measures, disconnected dimensions with SWITCH, cross-table relationships with TREATAS, and net-sales logic spanning invoices and credit notes.
-- **Automation** — Python + SQL Server jobs (Task Scheduler) that query ERP data and deliver formatted, ready-to-use reports automatically.
+- **Automation** — Python + SQL Server jobs (Task Scheduler) that query ERP data and deliver formatted, ready to use reports automatically.
 - **Data Infrastructure** — On-Premises Data Gateway setup, scheduled refreshes, and data pipelines connecting systems that don't natively talk to each other.
 
 ## ⚙️ Tech & Tools
@@ -15,5 +15,5 @@
 Systems Engineering degree + a Data Science bootcamp (TripleTen), combined with hands-on production experience building reporting for real, multi-country operations.
 
 ## 📫 Let's Connect
-📧 your-email@example.com
+📧 ferrera1206@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/pedroperdomof)
