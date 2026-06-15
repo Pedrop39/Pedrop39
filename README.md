@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Perdomo 👋
 
-**Business / Data Analyst** focused on turning fragmented operational data into clear, decision-ready reporting. I work as the data and technical bridge across a multi country operation, unifying information that lives in three different ERP systems into a single source of truth.
+**Business / Data Analyst** focused on turning fragmented operational data into clear, decision ready reporting. I work as the data and technical bridge across a multi country operation, unifying information that lives in three different ERP systems into a single source of truth.
 
 ## 🛠️ What I Do
 - **BI & Reporting** — Design and maintain Power BI dashboards consolidating sales and inventory across multiple business units and countries.
